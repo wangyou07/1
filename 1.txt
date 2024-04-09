@@ -1,7 +1,7 @@
 ####################################
 # 创建者：v2rayse.com
 # 客户端：Clash.Meta
-# 创建时间：2024-04-08 20:21:26
+# 创建时间：2024-04-09 10:50:41
 # 使用模版：V2RaySE 默认模版
 # 节点数量：40
 ####################################
@@ -125,7 +125,7 @@ proxies:
   - {"name":"137","type":"vless","server":"www.udacity.com","port":8080,"uuid":"19602f8a-a852-4eed-8eda-52411e6dc3ef","tls":false,"servername":"b332w-small-paper-69c5.ir2uo6bx.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"b332w-small-paper-69c5.ir2uo6bx.workers.dev"}}}
   - {"name":"138","type":"vless","server":"www.glassdoor.com","port":8080,"uuid":"d4249be6-845c-4a28-a6db-46cb3704d344","tls":false,"servername":"kj2idog-yellow-bird-7347.162t4zhv.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"kj2idog-yellow-bird-7347.162t4zhv.workers.dev"}}}
   - {"name":"139","type":"vless","server":"www.boba88slot.com","port":8080,"uuid":"2a304a29-10d1-4707-9382-b363599f5f0f","tls":false,"servername":"f2f23-odd-flower-b2e6.so1tpicd.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"f2f23-odd-flower-b2e6.so1tpicd.workers.dev"}}}
-  - {"name":"140","type":"vless","server":"fbi.gov","port":8080,"uuid":"b21a0983-058b-46e8-bb00-0330e06b0905","tls":false,"servername":"59jyg-yellow-glitter-145d.h63a1plf.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"59jyg-yellow-glitter-145d.h63a1plf.workers.dev"}}}
+  - {"name":"140","type":"vless","server":"www.4chan.org","port":8080,"uuid":"b21a0983-058b-46e8-bb00-0330e06b0905","tls":false,"servername":"59jyg-yellow-glitter-145d.h63a1plf.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"59jyg-yellow-glitter-145d.h63a1plf.workers.dev"}}}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
